@@ -82,8 +82,8 @@ exports.notNum = (q) => {
 
 exports.listMenu = (time, salam, pushname, prefix) => {
     return `*Selamat ${salam} ${pushname} 😖*
-* Time Server : ${time}*
-* List-Menu Nevt Botz :*
+*⌚Time Server : ${time}*
+*📚 List-Menu Nevt Ganz :*
 
 ╭─❒ 「 Bot Info 」 ❒
 ├ ${prefix}owner
