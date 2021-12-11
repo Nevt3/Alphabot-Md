@@ -82,8 +82,8 @@ exports.notNum = (q) => {
 
 exports.listMenu = (time, salam, pushname, prefix) => {
     return `*Selamat ${salam} ${pushname} 😖*
-*⌚Time Server : ${time}*
-*📚 List-Menu Alphabot-Md :*
+* Time Server : ${time}*
+* List-Menu Nevt Botz :*
 
 ╭─❒ 「 Bot Info 」 ❒
 ├ ${prefix}owner
@@ -262,7 +262,7 @@ exports.tos = (ownernomer) => {
 
 Hai 👋
 Kalian bisa mendukung saya agar bot ini tetap up to date dengan:
-🏧 0887435047326 (OVO/Dana/GoPay)
+🏧 0881037044211 (OVO/Dana/GoPay)
 
 Berapapun donasi kalian akan sangat berarti 👍
 
